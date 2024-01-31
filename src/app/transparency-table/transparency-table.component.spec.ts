@@ -8,10 +8,9 @@ describe('TransparencyTableComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      imports: [TransparencyTableComponent]
-    })
-    .compileComponents();
-    
+      imports: [TransparencyTableComponent],
+    }).compileComponents();
+
     fixture = TestBed.createComponent(TransparencyTableComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
