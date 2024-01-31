@@ -8,6 +8,8 @@ import { TransparencyTableComponent } from './transparency-table/transparency-ta
   standalone: true,
   imports: [CommonModule, RouterOutlet, TransparencyTableComponent],
   templateUrl: './app.component.html',
-  styleUrl: './app.component.css',
+  styleUrl: './app.component.css'
 })
-export class AppComponent {}
+export class AppComponent {
+
+}

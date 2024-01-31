@@ -5,6 +5,8 @@ import { Component } from '@angular/core';
   standalone: true,
   imports: [],
   templateUrl: './transparency-table.component.html',
-  styleUrl: './transparency-table.component.css',
+  styleUrl: './transparency-table.component.css'
 })
-export class TransparencyTableComponent {}
+export class TransparencyTableComponent {
+
+}
