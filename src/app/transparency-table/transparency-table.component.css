@@ -1,0 +1,19 @@
+.container {
+  width: 70%;
+  margin: auto;
+  padding-top: 10%;
+}
+.transparency-table {
+  border: 1px solid grey;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.header {
+  background-color: #6bb3f8;
+}
+.row {
+  background-color: #f6f6f6;
+}
+.description {
+  font-weight: 500;
+}
